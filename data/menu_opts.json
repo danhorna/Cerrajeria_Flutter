@@ -1,0 +1,17 @@
+{
+    "appName"   :   "Cerrajeria",
+    "sections"  :   [
+        {
+            "route" :   "products",
+            "text"  :   "Productos"
+        },
+        {
+            "route" :   "myproducts",
+            "text"  :   "Mis Productos"
+        },
+        {
+            "route" :   "sales",
+            "text"  :   "Ventas"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390936207639",
+    "firebase_url": "https://cerrajeria-f73ac.firebaseio.com",
+    "project_id": "cerrajeria-f73ac",
+    "storage_bucket": "cerrajeria-f73ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390936207639:android:5e9dbf6fb9f594b98fd752",
+        "android_client_info": {
+          "package_name": "com.example.cerrajeria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390936207639-g2vjecanpdmi738p52uvfth2gh5c4bq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpM8hudxEcPrEB32yrFOf1c_BtTyEogiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390936207639-g2vjecanpdmi738p52uvfth2gh5c4bq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
